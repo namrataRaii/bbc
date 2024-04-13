@@ -1,0 +1,14 @@
+[11-Oct-2023 20:34:22 UTC] PHP Warning:  include(footer): Failed to open stream: No such file or directory in /home2/akven7i5/beingbillionaireconsultancy.com/about.php on line 180
+[11-Oct-2023 20:34:22 UTC] PHP Warning:  include(): Failed opening 'footer' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/akven7i5/beingbillionaireconsultancy.com/about.php on line 180
+[12-Oct-2023 09:18:24 UTC] PHP Warning:  include(footer): Failed to open stream: No such file or directory in /home2/akven7i5/beingbillionaireconsultancy.com/about.php on line 180
+[12-Oct-2023 09:18:24 UTC] PHP Warning:  include(): Failed opening 'footer' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/akven7i5/beingbillionaireconsultancy.com/about.php on line 180
+[12-Oct-2023 10:07:44 UTC] PHP Warning:  include(footer): Failed to open stream: No such file or directory in /home2/akven7i5/beingbillionaireconsultancy.com/about.php on line 180
+[12-Oct-2023 10:07:44 UTC] PHP Warning:  include(): Failed opening 'footer' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/akven7i5/beingbillionaireconsultancy.com/about.php on line 180
+[13-Oct-2023 05:24:38 UTC] PHP Warning:  include(footer): Failed to open stream: No such file or directory in /home2/akven7i5/beingbillionaireconsultancy.com/about.php on line 180
+[13-Oct-2023 05:24:38 UTC] PHP Warning:  include(): Failed opening 'footer' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/akven7i5/beingbillionaireconsultancy.com/about.php on line 180
+[13-Oct-2023 06:05:22 UTC] PHP Warning:  include(footer): Failed to open stream: No such file or directory in /home2/akven7i5/beingbillionaireconsultancy.com/about.php on line 180
+[13-Oct-2023 06:05:22 UTC] PHP Warning:  include(): Failed opening 'footer' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/akven7i5/beingbillionaireconsultancy.com/about.php on line 180
+[27-Oct-2023 12:25:43 UTC] PHP Warning:  Undefined array key 2 in /home2/akven7i5/beingbillionaireconsultancy.com/header.php on line 6
+[27-Oct-2023 12:25:46 UTC] PHP Warning:  Undefined array key 2 in /home2/akven7i5/beingbillionaireconsultancy.com/header.php on line 6
+[17-Nov-2023 18:10:43 UTC] PHP Warning:  Undefined array key 1 in /home2/akven7i5/beingbillionaireconsultancy.com/header.php on line 6
+[27-Nov-2023 09:01:21 UTC] PHP Warning:  Undefined array key 1 in /home2/akven7i5/beingbillionaireconsultancy.com/header.php on line 6

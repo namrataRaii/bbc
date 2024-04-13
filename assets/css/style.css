@@ -1,0 +1,6 @@
+thead{
+    background: var(--bs-sidebar-dark-bg);
+}
+thead tr th{
+    color: #fff !important;
+}
